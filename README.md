@@ -3,7 +3,7 @@
 
 1. 본 앱은 대우정보처리회계학원 모바일포렌식을 활용한 응용 SW개발자 양성과정 수업의 산출물로서 HTML, jQuery, Bootstrap, AJAX를 이용하여 제작한 웹 앱입니다.
 2. Cordova로 패키징하고 gitgub에서 형상관리를 하였습니다.
-3. [본 앱](http://jikkk9.dothome.co.kr/weather)은 웹앱이므로 어떤 플랫폼이든 관계없이 100% 정상 동작할 것입니다.
+3. [본 앱](http://jikkk9.dothome.co.kr/weather)은 웹 앱이므로 어떤 플랫폼이든 관계없이 정상 동작할수 있도록 만들었습니다.
 
 # 릴리즈 정보
 
