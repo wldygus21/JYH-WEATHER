@@ -7,7 +7,7 @@
 
 # 릴리즈 정보
 
-1. 안드로이드 버전은 날씨_0.01_alpha](https://github.com/wldygus21/JYH-WEATHER/blob/master/weather.zip) (github.com/wldygus21/JYH-WEATHER/blob/master/weather.zip)를 눌러서 다운로드 하실수 있습니다.
+1. 안드로이드 버전은 [weather_0.01_alpha](https://github.com/wldygus21/JYH-WEATHER/blob/master/weather.zip) (github.com/wldygus21/JYH-WEATHER/blob/master/weather.zip)를 눌러서 다운로드 하실수 있습니다.
 2. 웹 사이트 [여기](http://jikkk9.dothome.co.kr/weather) (jikkk9.dothome.co.kr/weather)를 눌러 브라우저에서 이용할수 있습니다.
 
 ## 문의
